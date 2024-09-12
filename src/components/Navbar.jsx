@@ -36,7 +36,7 @@ const Navbar = () => {
 
             
             <div>
-            <Button disabled={disableLogin} onClick={login} target={"_blank"} 
+            <Button disabled={disableLogin} onClick={login}
         styles="bg-red-600 md:hidden flex"
         title={"Get Started"}/>
             </div>
